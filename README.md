@@ -1,6 +1,6 @@
 # lab-6-starter
 	
-*SPECS
+* SPECS
 	* [Full Specs Doc](http://courses.cs.washington.edu/courses/cse154/16au/homework/8/spec.pdf)
 	* [Extra Features Spec](http://courses.cs.washington.edu/courses/cse154/16au/homework/8/spec-extra.pdf)	
 	
