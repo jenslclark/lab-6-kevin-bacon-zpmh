@@ -1,24 +1,14 @@
 # lab-6-starter
+	
+*SPECS
+	* [Full Specs Doc](http://courses.cs.washington.edu/courses/cse154/16au/homework/8/spec.pdf)
+	* [Extra Features Spec](http://courses.cs.washington.edu/courses/cse154/16au/homework/8/spec-extra.pdf)	
+	
 	<div id="hw7" class="assignmentarea delayed" >
 		<span class="showdate" style="display: none">Week8 Fri 1:00 PM</span>
 
 		<table class="homeworktable">
-			<tr>
-				<th>
-					<img src="homework/8/hw6.png" alt="hw image" />
-				</th>
-				<td>
-					<h3>
-						<a class="turninlink popup" href="https://gradeit.cs.washington.edu/uwcse/turnin/code/turnin_page_view.php?course=154&quarter=16au&assignment=hw7"><img class="icon" src="images/icon_turnin.gif" alt="icon" /> Turn in HW7</a>
-						Homework 7 (Kevin Bacon)
-					</h3>
 
-					<h4>
-						Due <span class="insertdate insertdatelong" rel="Week10 Wed"></span>, 11:30pm. <br />
-						No submissions accepted after <span class="insertdate insertdatelong" rel="Week10 Sat"></span>, 11:30pm.
-					</h4>
-				</td>
-			</tr>
             
 			<tr>
 				<th>Specification:</th>
